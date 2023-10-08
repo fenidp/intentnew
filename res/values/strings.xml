@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">init</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="this_is_move">Ini MOveActivity</string>
+    <string name="move_with_data">Pindah dengan data</string>
+    <string name="data_terima">Data diterima\n</string>
+</resources>
